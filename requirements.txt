@@ -5,3 +5,7 @@ tiktoken
 torch
 transformers
 matplotlib
+numpy
+datasets
+huggingface_hub
+ipykernel
